@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(200, 200, 255);
+}
+
+h1 {
+    background-color: rgb(238, 207, 212);
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    padding: 30px;
+    border: 7px dotted rgb(249, 12, 143);
+}
+
+#container {
+    min-height: 400px;
+    width: 100%;
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#jokes {
+    height: 70%;
+    width: 76%;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: rgb(157, 254, 191);
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    font-family: cursive;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+button {
+    display: inline-block;
+    width: 242px;
+    background-color: green;
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 24px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgb(10, 169, 10);
+}

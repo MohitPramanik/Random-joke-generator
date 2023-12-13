@@ -1,0 +1,17 @@
+@media (max-width: 607px) {
+    h1{
+        font-size: 43px;
+    }
+    #jokes{
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 402px) {
+    h1{
+        font-size: 37px;
+    }
+    #jokes{
+        font-size: 25px;
+    }
+}
