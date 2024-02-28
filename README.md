@@ -12,5 +12,8 @@ The Random Joke Generator is a web-based application developed using HTML, CSS, 
 - Simple and intuitive user interface.
 - Responsive design for seamless experience on different devices.
 
+## Preview
+![image](https://github.com/MohitPramanik/Random-joke-generator/assets/119654241/4e1d8c1f-15c1-427a-bdc2-349430299547)
+
 ## Visit Link
  - [Random Joke Generator](https://mohitpramanik.github.io/Random-joke-generator/)
